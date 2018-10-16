@@ -5,4 +5,3 @@ Languages/Frameworks used:
 Angular JS
 Java
 
-# Added for CI test
